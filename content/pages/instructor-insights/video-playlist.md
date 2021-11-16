@@ -1,0 +1,10 @@
+---
+content_type: page
+is_media_gallery: true
+layout: instructor_insights
+parent_title: Instructor Insights
+parent_uid: 93006bd3-39e1-f7b8-55d5-4958641b37da
+title: Video Playlist
+uid: 8f938bf0-7fe9-93c6-9fb8-0d9da6fb078e
+---
+{{< video-gallery-item href="/resources/course-history" section="Video Playlist" title="Course History" description="" thumbnail="https://img.youtube.com/vi/_DbUa8w0W74/default.jpg" >}} {{< video-gallery-item href="/resources/collaborating-with-clients" section="Video Playlist" title="Collaborating with Clients" description="" thumbnail="https://img.youtube.com/vi/Wup3xqOvvpA/default.jpg" >}} {{< video-gallery-item href="/resources/the-role-of-mentors" section="Video Playlist" title="The Role of Mentors" description="" thumbnail="https://img.youtube.com/vi/K67ojX4-PL8/default.jpg" >}} {{< video-gallery-item href="/resources/teaching-students-to-learn-from-failure" section="Video Playlist" title="Teaching Students to Learn from Failure" description="" thumbnail="https://img.youtube.com/vi/UswuSLKQVK4/default.jpg" >}} {{< video-gallery-item href="/resources/assessing-students-learning" section="Video Playlist" title="Assessing Students Learning" description="" thumbnail="https://img.youtube.com/vi/ZjLZ_P8svSY/default.jpg" >}} {{< video-gallery-item href="/resources/making-learning-public" section="Video Playlist" title="Making Learning Public" description="" thumbnail="https://img.youtube.com/vi/0IF8oBg_Zd8/default.jpg" >}} {{< video-gallery-item href="/resources/advice-for-educators" section="Video Playlist" title="Advice for Educators" description="" thumbnail="https://img.youtube.com/vi/ZGCJabWew3A/default.jpg" >}} {{< video-gallery-item href="/resources/learning-about-being-an-educator" section="Video Playlist" title="Learning About Being an Educator" description="" thumbnail="https://img.youtube.com/vi/EmwHY7Ibu9k/default.jpg" >}}
